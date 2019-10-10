@@ -1,9 +1,11 @@
-Title: Sections 4:
-Category: section
-Date: 2019-06-06
-Author: 
+Title: S-Section 04: Regularization and Model Selection
+Category: sections
 Slug: section4
-Tages: ADD TAGS HERE
+Author: Marios Matthaiakis, Abhimanyu (Abhi) Vasishth, Robbert (Rob) Struyven
+Date: 2019-10-04
+Tags:  model selection, cross validation, ridge, lasso, regularization
 
+## Jupyter Notebooks
 
-## Slides
+- [S-Section 4: Regularization and Model Selection ]({filename}notebook/cs109a_section_4.ipynb)
+

@@ -1,9 +1,11 @@
-Title: Sections 3:
-Category: section
-Date: 2019-06-06
-Author: 
+Title: S-Section 03: Multiple Linear and Polynomial  Regression 
+Category: sections
 Slug: section3
-Tages: ADD TAGS HERE
+Author: Marios Matthaiakis, Abhimanyu (Abhi) Vasishth, Robbert (Rob) Struyven
+Date: 2019-09-27
+Tags:  multiple linear regression, polynomial regression, categorical variables, interaction terms, pairplot
 
+## Jupyter Notebooks
 
-## Slides
+- [S-Section 3: Multiple Linear Regression and Polynomial Regression ]({filename}notebook/cs109a_section_3.ipynb)
+
